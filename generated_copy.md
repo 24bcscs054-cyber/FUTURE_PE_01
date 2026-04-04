@@ -1,5 +1,6 @@
 Homepage Copy
 Headline (H1): 
+
 Your Daily Dose of Comfort in a Kullad.
 Sub-headline (H2): The ultimate hangout spot for students and locals near RRU Lavad. Come for the signature thick Rajwadi Chai, stay for the good vibes and great conversations.
 Intro: Welcome to Rajwadi Chai, Gandhinagar's favorite campus-side escape. Whether you are cramming for exams, catching up with friends, or just need a comforting cup of authentic Adrak chai, we have a spot saved for you. We brew fresh memories every day with our signature teas, hot coffees, and classic street-style snacks.
