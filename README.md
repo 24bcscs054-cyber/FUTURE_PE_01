@@ -33,6 +33,6 @@ This system avoids "random AI text" by using a **Modular Prompting Strategy**:
 
 *Developed as a Prompt Engineering & AI Website Build portfolio project.*
 
-<img width="1894" height="1071" alt="Screenshot 2026-04-04 160053" src="https://github.com/user-attachments/assets/d3f444fb-4f99-4255-8324-001fbc8303f3" />
-
 [🌐 View the Rajwadi Chai Live Website Preview](https://preview--rajwadi-chai-vibes.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiRVdaeDhMQkRvS2FKVWJFcGxUWXRteG5tM2VNMiIsInByb2plY3RfaWQiOiIxYTg1MjJjZS1kMWY4LTQ2MDUtOWI5Yy01NTA0NjNlNzVjYTkiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjFhODUyMmNlLWQxZjgtNDYwNS05YjljLTU1MDQ2M2U3NWNhOSIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzYwNzY1MDIsIm5iZiI6MTc3NTQ3MTcwMiwiaWF0IjoxNzc1NDcxNzAyfQ.nz8Pq3F760qKs4MRjyY9O09pv49wyRCiWUHZuCfk-YfK3-t8H3kpi7FaZBA7sTINf_jlF-NhbCzxKvyBDCcWQruZGU8NDeHTnHLCao3e_84pKC_43fGPYn_Ft0d0lZsWb527gD6bQeSt7PiaPSN9av2-BDuqWFgPjLR8lTywi28Dv82U0oUBXRHF4nQK9lSfYL0z2LUneVbSpD6UEQ8EffpIfhDkbn6WNsFV-FM_O8Pq3zKRunACSCUSl3OwpKYge2yRmdEisgx_6brvhthAxEoJsQGvnbnjLPlB2zRGzJhLSW5fiGg4cbRWyak95TbaTVzPuIHRZqTKuGhYIsMhST_i1REMUEEt9TQG-El2ozPH8sfCNXm5m1nMwBcCkzFdJB4Yc5rIxatSnjNumgco5tYFYKwnO1i_qjTMAcDmyCYJ8W1jIBbLF9C2X_QLRZdXs73oEDxubPVdqQkpc9AJspdaiDoL9rYmrFgcgP8NH82fc9TJGGEI8i1_HUsmN91NTFfDdGh3YL7lmKFj5_XtSe99fk4qNaoMVTw0WDZey2_VbDKvixKJqBXeTZbPsz-fMnZD8UwCHD-w3nDmCud6c0fhBrpjesHC5n3fgvvF0AyKE-Cl6_K7nj3zz6u8TBfHljArDjHY4KeOY4BLv2VJk19LirfcGqJ9VgSkMTbgMJY)
+
+<img width="1894" height="1071" alt="Screenshot 2026-04-04 160053" src="https://github.com/user-attachments/assets/d3f444fb-4f99-4255-8324-001fbc8303f3" />
